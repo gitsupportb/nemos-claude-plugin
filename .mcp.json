@@ -2,7 +2,7 @@
   "mcpServers": {
     "nemos": {
       "type": "http",
-      "url": "https://mcp.nemosapp.com/chatgpt/mcp"
+      "url": "https://mcp.nemosapp.com/mcp"
     }
   }
 }

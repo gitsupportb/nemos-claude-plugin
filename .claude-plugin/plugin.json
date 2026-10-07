@@ -1,7 +1,7 @@
 {
   "name": "nemos",
   "displayName": "Némos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search and read your saved Némos notes, links, screenshots, and research from Claude.",
   "author": { "name": "Némos", "url": "https://nemosapp.com" },
   "homepage": "https://nemosapp.com/mcp/",
