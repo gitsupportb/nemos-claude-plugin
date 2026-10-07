@@ -1,0 +1,16 @@
+{
+  "name": "nemos",
+  "displayName": "Némos",
+  "version": "1.0.0",
+  "description": "Search and read your saved Némos notes, links, screenshots, and research from Claude.",
+  "author": { "name": "Némos", "url": "https://nemosapp.com" },
+  "homepage": "https://nemosapp.com/mcp/",
+  "repository": "https://github.com/gitsupportb/nemos-claude-plugin",
+  "license": "MIT",
+  "keywords": ["nemos", "notes", "saved-links", "screenshots", "research"],
+  "icon": "./assets/nemos-icon.png",
+  "documentationUrl": "https://nemosapp.com/mcp/",
+  "supportUrl": "https://nemosapp.com/faq/",
+  "privacyPolicyUrl": "https://nemosapp.com/privacy/",
+  "termsOfServiceUrl": "https://nemosapp.com/terms/"
+}
