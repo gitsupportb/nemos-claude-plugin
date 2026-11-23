@@ -1,9 +1,9 @@
 {
   "name": "nemos",
-  "displayName": "Némos",
-  "version": "1.0.1",
-  "description": "Search and read your saved Némos notes, links, screenshots, and research from Claude.",
-  "author": { "name": "Némos", "url": "https://nemosapp.com" },
+  "displayName": "Nemos",
+  "version": "1.0.2",
+  "description": "Search and read your saved Nemos notes, links, screenshots, and research from Claude.",
+  "author": { "name": "Nemos", "url": "https://nemosapp.com" },
   "homepage": "https://nemosapp.com/mcp/",
   "repository": "https://github.com/gitsupportb/nemos-claude-plugin",
   "license": "MIT",
